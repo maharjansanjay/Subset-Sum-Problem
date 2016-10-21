@@ -1,0 +1,8 @@
+Links for subset sum problem
+============================
+
+1. https://www.youtube.com/watch?v=s6FhG--P7z0
+
+2. https://www.youtube.com/watch?v=zKwwjAkaXLI
+
+3. https://www.thanassis.space/fillupDVD.html (pretty like an real-worl application of the problem.)
