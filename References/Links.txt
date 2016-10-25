@@ -8,3 +8,5 @@ Links for subset sum problem
 3. https://www.thanassis.space/fillupDVD.html (pretty like an real-worl application of the problem.)
 
 4. http://20bits.com/article/introduction-to-dynamic-programming
+
+5. http://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/
