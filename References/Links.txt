@@ -10,3 +10,5 @@ Links for subset sum problem
 4. http://20bits.com/article/introduction-to-dynamic-programming
 
 5. http://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/
+
+6. http://algorithms.tutorialhorizon.com/dynamic-programming-subset-sum-problem/
