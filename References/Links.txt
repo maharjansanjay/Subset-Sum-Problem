@@ -14,3 +14,5 @@ Links for subset sum problem
 6. http://algorithms.tutorialhorizon.com/dynamic-programming-subset-sum-problem/
 
 7. http://www.math.stonybrook.edu/~scott/blair/Contents.html
+
+8. http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html
