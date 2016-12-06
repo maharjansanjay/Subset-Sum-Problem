@@ -1,4 +1,20 @@
-1. Defination
-2. Algorithms (with examples)
-3. Time and space complexity
+The paper should have:
+
+1) your name Ranju Khadgi
+
+2) your ID 1173595
+
+3) class number with sections- (CSCI-651-M02)
+
+4) semester- (Fall 2016)
+
+5) algorithm/problem selected-Topic
+
+6) describe what it is
+
+7) give an example of it
+
+8) is it's complexity polynomial, non-polynomial, np-hard?
+
+9) be sure to site where you got the information from
 
