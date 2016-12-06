@@ -16,3 +16,5 @@ Links for subset sum problem
 7. http://www.math.stonybrook.edu/~scott/blair/Contents.html
 
 8. http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html
+
+9. https://www.youtube.com/watch?v=r1zz5OyB3K0	-- Binary Search
